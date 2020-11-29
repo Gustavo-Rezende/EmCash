@@ -1,0 +1,23 @@
+{
+    "name": "gustavo.cordeiro/rest-full-php",
+    "description": "API para busca de pessoas",
+    "type": "project",
+    "require": {
+        "coffeecode/datalayer": "1.1.*",
+        "tuupola/slim-basic-auth": "^3.2",
+        "tuupola/slim-jwt-auth": "^3.2"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Gustavo Cordeiro",
+            "email": "gustavo.grc@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "PSR-4": {
+            "Source\\": "source/"
+        }
+    }
+}
