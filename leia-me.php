@@ -2,7 +2,7 @@
 
 
 // A URL aponta para o controller para o cadastro e retorno dos dados.
-$url = "http://localhost/API_Emcash/restFullPhp/source/Controller/PoligonosController.php"; //Servidor  
+$url = "http://localhost/Emcash_API/EmCash/source/Controller/PoligonosController.php"; //Servidor  
 
 
 /*
